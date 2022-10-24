@@ -14,6 +14,10 @@ Eiffel Tower:
 
 ![ar 2](https://user-images.githubusercontent.com/80614118/197482519-0ab6328f-eeb9-4228-b004-4b987befd592.png)
 
+Statue of liberty:
+
+![ar 6](https://user-images.githubusercontent.com/80614118/197483140-7830fa29-0e75-434f-88e0-dacb5134ea3b.png)
+
 Leaning Tower:
 
 ![ar 3 ](https://user-images.githubusercontent.com/80614118/197482554-ea89fbd3-03c8-48c3-a65d-cf0675317f2c.png)
